@@ -1,0 +1,16 @@
+__pycache__/
+pyvenv
+outlook-agent-env/
+get-pip
+docx-template
+Include
+Lib
+Projection Definition
+Scripts
+*.__pycache__*.pyo
+*.pyd
+.python_version
+.vscode/
+.DS_Store
+Thumbs.db
+.env
